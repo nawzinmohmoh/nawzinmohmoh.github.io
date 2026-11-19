@@ -1,6 +1,5 @@
-@ -1,32 +1,32 @@
-img src="https://organicthemes.com/demo/nonprofit/files/2015/05/computer-coffee-dark-300x200.jpg" alt="Photo" align="right" width="30%"/>
-<img src="https://organicthemes.com/demo/nonprofit/files/2015/05/computer-coffee-dark-300x200.jpg" alt="Photo" align="right" width="30%"/>
+
+<img src=https://github.com/nawzinmohmoh/nawzinmohmoh.github.io/blob/main/Smiling%20Student%20in%20Glasses.png alt="Photo" align="right" width="30%"/>
 
 # _Naw Zin Moh Moh_
 > _Kindergarten Teacher_<br />
@@ -15,17 +14,17 @@ A caring, patient, and enthusiastic aspiring Kindergarten Teacher with teaching 
 * Bachelor's in business administration, Payap University
 
 # Experience
-* Experience 1
-* Experience 2
-* Experience 3
+* Volunteer Social Studies Teacher (Grade-10) & Kindergarten Teacher- Mercy Mission Education Center
 
 # Interests
-* Interest 1
-* Interest 2
-
+* Early childhood education and child development
+*  Volunteering and community involvement
+*  Health, safety, and children's well-being
+  
 # Special skills
-* Skill 1 
-* Skill 2
+* Classroom Management and Lesson Preparation
+* Storytelling, Singing, and Educational Games
+* First Aid and Basic Life Support (CPR) Knowledge
 
 # Contact Info
 * [Web Page](https://nawzinmohmoh.github.io)
