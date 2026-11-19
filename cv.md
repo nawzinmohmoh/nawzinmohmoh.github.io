@@ -1,0 +1,30 @@
+
+<img src=https://github.com/nawzinmohmoh/nawzinmohmoh.github.io/blob/main/Smiling%20Student%20in%20Glasses.png alt="Photo" align="right" width="30%"/>
+
+# _Naw Zin Moh Moh_
+> _Kindergarten Teacher_<br />
+> Mercy Mission Education Center<br />
+> 199/352 Suan Nosi village<br />
+> Chiang Mai 50210<br />
+> Thailand<br />
+A caring, patient, and enthusiastic aspiring Kindergarten Teacher with teaching and childcare experience and a strong passion for early childhood education. Skilled in communicating with children, supporting their learning environment. Possesses strong interpersonal, organizational, and teamwork skills, with a commitment to encouraging children's creativity, confidence, and personal development. Eager to contribute to children's educational growth and continue developing professional teaching skills.
+> 
+# Education
+* General Educational Development ( GED )
+* Bachelor's in business administration, Payap University
+
+# Experience
+* Volunteer Social Studies Teacher (Grade-10) & Kindergarten Teacher- Mercy Mission Education Center
+
+# Interests
+* Early childhood education and child development
+*  Volunteering and community involvement
+*  Health, safety, and children's well-being
+  
+# Special skills
+* Classroom Management and Lesson Preparation
+* Storytelling, Singing, and Educational Games
+* First Aid and Basic Life Support (CPR) Knowledge
+
+# Contact Info
+* [Web Page](https://nawzinmohmoh.github.io)
