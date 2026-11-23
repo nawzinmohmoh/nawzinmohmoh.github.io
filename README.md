@@ -1,5 +1,5 @@
 
-<img src="https://github.com/nawzinmohmoh/nawzinmohmoh.github.io/blob/main/Smiling%20Student%20in%20Glasses.png" alt="Photo" align="right" width="30%"/>
+<img src="https://github.com/nawzinmohmoh/nawzinmohmoh.github.io/blob/main/img/Smiling%20Student%20in%20Glasses.png" alt="Photo" align="right" width="30%"/>
 
 # _Naw Zin Moh Moh_
 > _Kindergarten Teacher_<br />
